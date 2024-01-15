@@ -1,12 +1,23 @@
-### Hi , I am Dmytro 👋
+### Hi , I'm Dmytro 👋
 
-Front-end developer with 5+ years of experience in the tech industry. Proven ability to develop, and deploy high-quality user interfaces. Expertise in React, Redux, GraphQL, TypeScript,  Material UI and localization.
+I'm Front-end developer with 5+ years of experience in the tech industry. Proven ability to develop, and deploy high-quality user interfaces. Expertise in React, Redux, GraphQL, TypeScript,  Material UI and localization.
 
-:mailbox: Reach me out
 
-![Static Badge](https://img.shields.io/badge/Dmytro%20Andrushko-red?logo=linkedin&labelColor=%230a66c2&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdmytro-andrushko-03419120a)
-![Static Badge](https://img.shields.io/badge/Dmytro%20Andrushko-red?logo=gmail&logoColor=%23ffffff&labelColor=%23fa4549&color=%23fa4549&link=mailto%3Aandrushkodima%40gmail.com)
+
+#### :mailbox: Reach me out
+
+[![Static Badge](https://img.shields.io/badge/Dmytro%20Andrushko-%230a66c2?logo=linkedin)](https://www.linkedin.com/in/dmytro-andrushko-03419120a/)
+[![Static Badge](https://img.shields.io/badge/Dmytro%20Andrushko-%23fa4549?logo=gmail&logoColor=%23ffffff)](mailto:andrushkodima@gmail.com)
 
 
 
 ### Top Technologies
+![Static Badge](https://img.shields.io/badge/Javascript-%23fa4549?style=for-the-badge&logo=javascript&labelColor=%2320232a&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/React-red?style=for-the-badge&logo=react&labelColor=%2320232a&color=%2361dafb)
+![Static Badge](https://img.shields.io/badge/Typescript-%23fa4549?style=for-the-badge&logo=typescript&labelColor=%2320232a&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/graphql-%23fa4549?style=for-the-badge&logo=graphql&logoColor=%23E10098&labelColor=%2320232a&color=%23E10098)
+![Static Badge](https://img.shields.io/badge/mui-%230072E5?style=for-the-badge&logo=mui&labelColor=%2320232a&color=%230072E5)
+![Static Badge](https://img.shields.io/badge/nodejs-%230072E5?style=for-the-badge&logo=nodedotjs&labelColor=%2320232a&color=%23026e00)
+
+
+
