@@ -20,6 +20,7 @@ I'm Front-end developer with 5+ years of experience in the tech industry. Proven
 <br/>
 <br/>
 
+### My stats ⭐
 <div align="center" vertical-align="top">
 <img alt="Dmytro Andrushko's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrushkodmytro&custom_title=Dmytro%20Andrushko%27s%20GitHub%20Stats&show_icons=true&theme=transparent"/>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrushkodmytro&layout=compact&&langs_count=8"/>
